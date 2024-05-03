@@ -1,1 +1,2 @@
 
+azure_virtual_network_gateway_resource_data
